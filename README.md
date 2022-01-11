@@ -1,14 +1,10 @@
 ## Hi, I'm Song!! 👋
 
-<br/>
-
 #### 💬 Medium: https://iamsongcho.medium.com/
 
 #### 📫 Mail: iamsongcho@gmail.com
 
 #### 😄 Blog: "In progress"
-
-<br/>
 
 ## About me
 
