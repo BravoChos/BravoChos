@@ -4,14 +4,15 @@
 
 #### 📫 Mail: bravochos@gmail.com
 
-#### 😄 Blog: "In progress"
+#### 😄 Resume: https://bravochos.github.io/
 
 ## About me
 
-Specialized in AWS, Nest.js, react & react native and eager to become a professional solution architect. 5+ years of experience as a Backend Engineer and 3+ years of experience as react native developer. Self-driven and passionate about learning new skills. Currently, working on mommytalk application :)
+Over 6 years of experience in software engineering, crafting innovative mobile applications and building robust backend systems.
 
-- 🔭 I’m currently working on creating sturdy engine.
-- 🌱 I’m currently learning gRPC and Java Spring.
+Expertise in end-to-end development, seamlessly bridging frontend design and backend architecture.
+
+Proficient in JavaScript and technologies such as React, Node.js, and AWS, with a proven track record of optimizing data processing and scaling applications for large user bases.
 
 ## Skills I've used
 
