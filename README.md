@@ -12,7 +12,14 @@
 
 Over 6 years of experience in software engineering, crafting innovative mobile applications and building robust backend systems. Expertise in end-to-end development, seamlessly bridging frontend design and backend architecture. Proficient in JavaScript and technologies such as React, Node.js, and AWS, with a proven track record of optimizing data processing and scaling applications for large user bases.
 
-## Skills I've used
+## Technical Skills
+```
+Languages: Javascript, Typescript, Python, MySQL, Bash
+Framework: React, Next.js, Apollo, graphQL, Nest.js, AWS (RDS, Aurora, DynamoDB, S3, Lambda) 
+Tools: Github, Jenkins, Kubernetes, Docker
+```
+
+## Top 5 Skills
 
 <div>
 
