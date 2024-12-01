@@ -10,11 +10,7 @@
 
 ## About me
 
-Over 6 years of experience in software engineering, crafting innovative mobile applications and building robust backend systems.
-
-Expertise in end-to-end development, seamlessly bridging frontend design and backend architecture.
-
-Proficient in JavaScript and technologies such as React, Node.js, and AWS, with a proven track record of optimizing data processing and scaling applications for large user bases.
+Over 6 years of experience in software engineering, crafting innovative mobile applications and building robust backend systems. Expertise in end-to-end development, seamlessly bridging frontend design and backend architecture. Proficient in JavaScript and technologies such as React, Node.js, and AWS, with a proven track record of optimizing data processing and scaling applications for large user bases.
 
 ## Skills I've used
 
