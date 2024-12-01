@@ -1,10 +1,12 @@
 ## Hi, I'm Song!! 👋
 
-#### 💬 Medium: https://bravochos.medium.com/
-
 #### 📫 Mail: bravochos@gmail.com
 
-#### 😄 Resume: https://bravochos.github.io/
+#### 💼 linkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/seonghyun-cho-84251654/)
+
+#### 😄 Resume: [Click Here](https://bravochos.github.io/)
+
+<!-- #### 💬 Medium: [Click Here](https://bravochos.medium.com/) -->
 
 ## About me
 
