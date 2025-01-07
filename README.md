@@ -4,7 +4,7 @@
 
 #### 💼 linkedIn: [My LinkedIn](https://www.linkedin.com/in/seonghyun-song-cho-84251654/)
 
-#### 😄 Resume: [Click Here](https://bravochos.github.io/resume)
+#### 😄 Resume: [Click Here](https://bravochos.github.io)
 
 ## About me
 
