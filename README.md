@@ -2,11 +2,9 @@
 
 #### 📫 Mail: bravochos@gmail.com
 
-#### 💼 linkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/seonghyun-cho-84251654/)
+#### 💼 linkedIn: [My LinkedIn](https://www.linkedin.com/in/seonghyun-song-cho-84251654/)
 
-#### 😄 Resume: [Click Here](https://bravochos.github.io/)
-
-<!-- #### 💬 Medium: [Click Here](https://bravochos.medium.com/) -->
+#### 😄 Resume: [Click Here](https://bravochos.github.io/resume)
 
 ## About me
 
